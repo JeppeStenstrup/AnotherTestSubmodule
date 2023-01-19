@@ -1,0 +1,3 @@
+# AnotherTestSubmodule
+
+Another submodule
